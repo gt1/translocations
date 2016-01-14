@@ -1,4 +1,4 @@
-AC_INIT(translocations,0.0.0,[tischler@mpi-cbg.de],[translocations],[http://www.sanger.ac.uk])
+AC_INIT(translocations,0.0.1,[tischler@mpi-cbg.de],[translocations],[http://www.sanger.ac.uk])
 AC_CANONICAL_SYSTEM
 AC_PROG_LIBTOOL
 
